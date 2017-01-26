@@ -62,3 +62,10 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.apk
+*.meta
+*.7z
+*.unitypackage
+GoogleVR/
+Plugins/
+Library/
