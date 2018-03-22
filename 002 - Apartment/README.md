@@ -2,7 +2,7 @@ VR Nanodegree Course 2 Project
 -------------------------------------------------------------------------------
 
 Felipe Rodrigues Alves
-04:00:00 to complete all modifications and testing.
+06:00:00 to complete all modifications and testing.
 Google VR SDK for Unity v.1.7.0
 
 Observations:
