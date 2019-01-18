@@ -67,6 +67,5 @@ DerivedDataCache/*
 *.zip
 *.7z
 *.unitypackage
-GoogleVR/
 Plugins/
 Library/
