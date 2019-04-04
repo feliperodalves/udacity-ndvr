@@ -8,7 +8,7 @@ Felipe Rodrigues Alves
 
 Unity Version 2017.4.4f1 (64-bit)
 
-Google VR SDK for Unity v.1.0
+Google VR SDK for Unity v.1.170.0
 
 Running on a Samsung s8+
 
